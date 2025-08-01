@@ -92,7 +92,7 @@
 
 |           | 월  | 화  | 수  | 목  |
 | --------- | --- | --- | --- | --- |
-| 달성 여부 | O   |     |     |     |
+| 달성 여부 | O   |     |     | O   |
 
 <details>
   <summary>월요일</summary>
@@ -103,14 +103,12 @@
 
 </details>
 <details>
-  <summary>화요일</summary>
-</details>
-<details>
-  <summary>수요일</summary>
-</details>
-<details>
   <summary>목요일</summary>
-</details>
+- 이번주는 컨디션을 관리할 수 없어서.... 퀘스트 1로 변경
+- Git 내부 구조와 동작 원리에 대해 이해는 했지만 피어 피드백 시간에 설명하고 전달하는데 어려움을 느낌
+- 전체적인 흐름은 이해했지만 흐름만 이해했다는 것을 깨달음
+- 부족했던 부분을 채우고자 AI를 함께 학습 내용을 점검하며 부족한 부분을 파악하고 공부 진행
+- </details>
 
 ---
 
